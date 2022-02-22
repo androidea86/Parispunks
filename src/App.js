@@ -69,6 +69,7 @@ export const StyledLogo = styled.img`
   width: 200px;
   @media (min-width: 767px) {
     width: 300px;
+  border-radius: 25%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
