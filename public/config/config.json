@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x6bca70e22add8446aa5b752116f08707fa09d6a3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6bca70e22add8446aa5b752116f08707fa09d6a3",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "Paris Punks",
+  "SYMBOL": "Paris Punks",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Elements Market",
-  "MARKETPLACE_LINK": "https://element.market/collections/n-Plus",
+  "MARKETPLACE_LINK": "https://element.market/collections/parispunks",
   "SHOW_BACKGROUND": true
 }
